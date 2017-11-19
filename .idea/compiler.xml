@@ -7,11 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="flink-java-project" />
+        <module name="longridealerts" />
+        <module name="popularplaces" />
+        <module name="taxiridecleansing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="flink-java-project" target="1.7" />
-      <module name="flinktraining" target="1.5" />
+      <module name="flinktraining" target="1.8" />
+      <module name="longridealerts" target="1.8" />
+      <module name="popularplaces" target="1.8" />
+      <module name="taxiridecleansing" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

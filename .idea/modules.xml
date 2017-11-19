@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/flink-java-project/flink-java-project.iml" filepath="$PROJECT_DIR$/flink-java-project/flink-java-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/flinktraining.iml" filepath="$PROJECT_DIR$/flinktraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longridealerts/longridealerts.iml" filepath="$PROJECT_DIR$/longridealerts/longridealerts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popularplaces/popularplaces.iml" filepath="$PROJECT_DIR$/popularplaces/popularplaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxiridecleansing/taxiridecleansing.iml" filepath="$PROJECT_DIR$/taxiridecleansing/taxiridecleansing.iml" />
     </modules>
   </component>
 </project>
