@@ -13,7 +13,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="flink-java-project" target="1.7" />
+      <module name="flink-java-project" target="1.8" />
       <module name="flinktraining" target="1.8" />
       <module name="longridealerts" target="1.8" />
       <module name="popularplaces" target="1.8" />
